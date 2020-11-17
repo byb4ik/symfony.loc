@@ -1,0 +1,9 @@
+# config/routes.yaml
+
+# the "app_lucky_number" route name is not important yet
+app_lucky_number:
+  path: /lucky/number
+  controller: App\Controller\LuckyController::number
+app_security_login:
+  path: /security/login
+  controller: App\Controller\SecurityController::login
