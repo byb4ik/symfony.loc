@@ -10,13 +10,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1112b4-7b0c-487c-9506-8a29cccbb913" name="Default Changelist" comment="first_commit" />
+    <list default="true" id="5f1112b4-7b0c-487c-9506-8a29cccbb913" name="Default Changelist" comment="first_commit">
+      <change afterPath="$PROJECT_DIR$/templates/lucky/lucky.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Security/LoginAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/LoginAuthenticator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -137,7 +142,13 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\symfony.loc\templates" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -147,7 +158,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605631862801</updated>
-      <workItem from="1605631863883" duration="5735000" />
+      <workItem from="1605631863883" duration="6360000" />
+      <workItem from="1605710160944" duration="80000" />
+      <workItem from="1605722998314" duration="27000" />
+      <workItem from="1605723182428" duration="7000" />
+      <workItem from="1605723192606" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="first_commit">
       <created>1605631966205</created>
@@ -156,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605631966205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first_commit">
+      <created>1605638553171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605638553171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +194,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first_commit" />
@@ -186,18 +209,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605632003124" />
-    <state x="833" y="418" key="Github.ShareDialog" timestamp="1605632031192">
+    <state x="833" y="418" key="Github.ShareDialog" timestamp="1605638424843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="833" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605632031192" />
+    <state x="833" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605638424843" />
+    <state x="764" y="268" key="Github.UntrackedFilesDialog" timestamp="1605638458928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="268" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605638458928" />
     <state x="736" y="243" key="NewPhpClassDialog" timestamp="1605637387108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605637387108" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605631976727">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605638554731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605631976727" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605638554731" />
     <state x="859" y="397" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605636758727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
